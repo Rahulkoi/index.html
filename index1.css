@@ -1,0 +1,17 @@
+lable{
+    color: green 
+}
+#password{
+    color:green !important;
+}
+#username{
+    color:greenyellow !important;
+}
+.sure{
+    color: red !important;
+}
+.fontType{
+    font-size: 50px !important;
+}
+       
+    
